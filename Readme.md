@@ -9,7 +9,7 @@
 <!-- TOC_START -->
 | No. | Questions |
 | --- | --------- |
-| 1 | [](#)|
+| 1 | [What are the different data types present in javascript](#What-are-the-different-data-types-present-in-javascript)|
 <!-- TOC_END -->
 
 <!-- QUESTIONS_START -->
